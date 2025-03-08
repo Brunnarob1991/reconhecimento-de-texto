@@ -4,7 +4,9 @@
 ![image](https://github.com/user-attachments/assets/61e706fb-b87c-4fcb-8220-45b30e911422)
 
 2- Depois de criado foi necessário acessar a URL do Languague Studio e escolher as opção de analise de texto e também sentimentos e opniões.
-![image](https://github.com/user-attachments/assets/ef0d2cea-936d-4b1e-a7a8-cff19c2c2b2c)
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/455df7d8-ec48-44c1-941d-d0aa807db485" />
+
+
 
  -Fiz dois testes: 
 1- Utilizando o texto da documentação e analise dada através das palavras foi em maioria negativa:
