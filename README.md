@@ -1,15 +1,19 @@
 # reconhecimento-de-texto
 
 1- Inicialmente foi realizado a criação do grupo de recursos e recurso que seria usado no laborátorio do Language Studio.
+
+
 ![image](https://github.com/user-attachments/assets/61e706fb-b87c-4fcb-8220-45b30e911422)
 
 2- Depois de criado foi necessário acessar a URL do Languague Studio e escolher as opção de analise de texto e também sentimentos e opniões.
+
+
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/455df7d8-ec48-44c1-941d-d0aa807db485" />
 
 
 
- -Fiz dois testes: 
-1- Utilizando o texto da documentação e analise dada através das palavras foi em maioria negativa:
+ -Realizei dois testes: 
+O primeiro utilizando o texto da documentação e analise dada através das palavras foi em maioria negativa:
  
  Tired hotel with poor service
  The Royal Hotel, London, United Kingdom
@@ -24,6 +28,10 @@ My name is Bruna, and I am currently transitioning my career. I have a strong ba
 
 ![image](https://github.com/user-attachments/assets/53633158-d89a-437c-b642-cfff932e39f1)
 ![image](https://github.com/user-attachments/assets/284e4182-0c35-4da2-a6d4-578543a6c82d)
+
+Pude concluir que a análise de texto realizada no Language Studio demonstrou que a ferramenta é eficaz em identificar sentimentos e opiniões em diferentes contextos. No primeiro teste, utilizando um texto de documentação, a análise revelou predominantemente sentimentos negativos, destacando problemas como o serviço ruim e a necessidade de renovação das instalações do hotel. No segundo teste, ao utilizar um texto pessoal sobre a transição de carreira, a análise retornou sentimentos positivos, refletindo exatamente a mensagem de determinação e entusiasmo que se desejava transmitir. Isso mostra que o Language Studio pode ser uma ferramenta valiosa para entender e interpretar diferentes nuances de texto, seja em contextos negativos ou positivos.
+
+
 
 
 
